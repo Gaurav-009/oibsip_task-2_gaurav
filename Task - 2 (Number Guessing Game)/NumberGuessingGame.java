@@ -6,7 +6,7 @@ public class NumberGuessingGame {
     public static void main(String[] args) {
 
         int startingNumber = 1;
-        int endingNumber = 30;
+        int endingNumber = 100;
 
         int Attempts = 5;
         int score = 0;
